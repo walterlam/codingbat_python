@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 28 12:21:56 2020
-
-@author: walter
-"""
-
 def sleep_in(weekday,vacation):
     '''
     The parameter weekday is True if it is a weekday, 
