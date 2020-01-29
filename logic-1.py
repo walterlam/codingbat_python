@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 29 14:56:22 2020
-
-@author: walter
-"""
-
 def cigar_party(cigars, is_weekend):
     '''
     When squirrels get together for a party, they like to have cigars. 
