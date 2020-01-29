@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 29 17:29:39 2020
-
-@author: walter
-"""
-
 def make_bricks(small, big, goal):
     '''
     We want to make a row of bricks that is goal inches long. We have a number 
