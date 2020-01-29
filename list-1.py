@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 29 10:59:14 2020
-
-@author: walter
-"""
-
 def first_last6(nums):
     '''
     Given an array of ints, return True if 6 appears as either the first or 
