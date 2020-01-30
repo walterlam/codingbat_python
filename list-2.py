@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 30 11:58:02 2020
-
-@author: walter
-"""
-
 def count_evens(nums):
     '''
     Return the number of even ints in the given array. Note: the % "mod" 
