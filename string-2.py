@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 30 00:10:03 2020
-
-@author: walter
-"""
-
 def double_char(str):
     '''
     Given a string, return a string where for every char in the original, 
